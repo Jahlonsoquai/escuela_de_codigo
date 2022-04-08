@@ -7,4 +7,4 @@ NUMEROS DECIMALES: Los tipos de datos en número decimal son los que comprenden 
 
 CARACTER: Son los tipos de datos que se ingresaran como simbolo, puede ser desde una letra o un numero, en programación son escritos entrecomillados "a", "b", "1", "2.5", "@", "!", "?". Se les determina con la palabra char, caracter derivado del anglosajon, character.
 
-CADENA DE CARACTERES: Estos son los compuestos por letras, números y simbolos, 
+CADENA DE CARACTERES: Estos son los compuestos por letras, números, símbolos y oraciones los que representan texto, dentro de el codigo. se identifican con la palabra string. COmo ejemplos:  "número teléfonico: 5585448991", "Hola Mundo", "Fecha de: ", etc. 
