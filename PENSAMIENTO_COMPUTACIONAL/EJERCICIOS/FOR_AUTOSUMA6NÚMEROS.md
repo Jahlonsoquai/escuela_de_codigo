@@ -22,4 +22,7 @@ PARA i <= 6 HACER
  
  P7.- Fin.
 
+DIAGRAMA:
+
+* ![image](https://user-images.githubusercontent.com/103280092/164784196-6ef8d445-716b-4ddb-9891-e0867d3f56b5.png)
 
