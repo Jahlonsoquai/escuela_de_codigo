@@ -2,17 +2,17 @@ Crear programa que solicite 6 numeros, que realice su autosuma y la imprima en c
  
 P1.- Inicio
 
-P2.- DECLARAR (Numeral, Autosuma, Promedio)int
+P2.- DECLARAR (Numeral, Autosuma, Promedio) int, float
 
 P3.- i==0
 
 P4.- 
 
 PARA i <= 6 HACER
-    MOSTRAR("ingresa un número")
+    MOSTRAR("ingresa cualquier número")
     ASIGNAR (Numeral)
     Autosuma = Autosuma + Numeral
-    MOSTRAR (Autosuma)
+    MOSTRAR ("la suma de los números, es", Autosuma)
     i=i+1
     FINPARA
     
