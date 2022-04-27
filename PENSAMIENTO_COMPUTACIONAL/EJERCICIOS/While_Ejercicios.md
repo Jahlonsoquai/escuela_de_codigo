@@ -81,4 +81,25 @@ FinMientras
 
 Escribir "El Promedio de la estatura de estas ", NumPer, " es: ", Promedio 
 
+* En PSeInt.
+
+Algoritmo EstaturaPersonas
+	Promedio<-0
+	NumPer<-0
+	Altura<-0
+	i<-0
+	Suma<-0
+	Escribir "¿De cuántas personas quieres saber su altura?"
+	Leer NumPer
+		Mientras i<NumPer Hacer
+		i<-i+1
+		Escribir "Ingresa la altura", i
+		Leer Altura
+		Suma<-Suma+Altura
+		Promedio<-Suma/NumPer
+	FinMientras
+		Escribir "El Promedio de la estatura de estas ", NumPer, " personas es: ", Promedio 
+FinAlgoritmo
+
+
 
